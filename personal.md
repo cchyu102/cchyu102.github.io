@@ -12,7 +12,7 @@ _Technical & Vaccine Policy Intern_
 - Updated COVID-19 vaccine pipeline and COVAX policy to align with policy and regulatory changes
 - Led project on sex and gender considerations in COVID-19 immunization, synthesizing evidence, and delivering presentations to key partners
 
-![](/assets/img/gavi.jpg) 
+<img src="/assets/img/gavi.jpg" alt="image" width="300"/>
 
 
 ## Wushu Competion: University of Maryland, College Park
@@ -21,7 +21,7 @@ _Competitor_
 
 - Trained several months for TerpWushu competition at Goh's KungFu Studio in Baltimore, MD while acquiring my master's degree at Johns Hopkins University
 
-![](/assets/img/wushu.jpg) 
+<img src="/assets/img/wushu.jpg" alt="image" width="300"/>
 
 
 ## Study Abroad: London, United Kingdom
@@ -34,5 +34,5 @@ _Second-year undergraduate student_
     - _War, Peace & World Order_
     - _Health and Society in a Global Context_
       
-![](/assets/img/london.jpg)
+<img src="/assets/img/london.jpg" alt="image" width="300"/>
 
