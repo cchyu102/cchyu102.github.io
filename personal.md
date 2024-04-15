@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ## Internship Abroad: Geneva, Switzerland
-Gavi, The Vaccine Alliance  
+Gavi, The Vaccine Alliance  (June - November 2023)
 _Technical & Vaccine Policy Intern_
 
 - Provided technical support to the COVAX Facility by monitoring over 190 vaccine candidates’ performance,
@@ -26,7 +26,7 @@ efficient responses to emerging challenges in demanding result-driven environmen
 
 
 ## Study Abroad: London, United Kingdom
-NYU London, Fall 2018  
+NYU London, Fall 2018  (August - December 2018)
 _Second-year undergraduate student_
 
 - Took the following courses to fulfill major and minor requirements:
