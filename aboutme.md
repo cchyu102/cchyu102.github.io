@@ -15,4 +15,4 @@ A public health professional tackling infectious diseases, promoting vaccine equ
 - New York University
     - *BS Neural Science, Public Health minor, May 2021*
  
-[Resume/CV](Christine_Chyu_Resume_2-28-24.pdf)
+You can find my resume here: [Resume/CV](Christine_Chyu_Resume_2-28-24.pdf)
