@@ -12,6 +12,7 @@ A public health professional tackling infectious diseases, promoting vaccine equ
 ### Academic Background
 - Johns Hopkins Bloomberg School of Public Health
     - *MHS Epidemiology, May 2023*
+    - *Certificate in Vaccine Science and Policy*
 - New York University
     - *BS Neural Science, Public Health minor, May 2021*
  
