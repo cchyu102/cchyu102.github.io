@@ -8,28 +8,21 @@ subtitle:
 Gavi, The Vaccine Alliance  (June - November 2023)  
 _Technical & Vaccine Policy Intern_
 
-- Provided technical support to the COVAX Facility by monitoring over 190 vaccine candidates’ performance,
-contributing to evidence-based vaccine initiatives and ensuring national immunization commitments
-- Updated COVID-19 vaccine pipeline and COVAX Facility policy positions to align with the latest regulatory and
-policy changes in the field
-- Led a project by conducting literature review of over 50 texts about sex and gender considerations in COVID-19
-immunization, identifying crucial lessons and gaps, and proposing strategic solutions to bolster access to
-immunization services
-- Synthesized evidence and delivered over 10 concise presentations and reports post-briefings and events with key
-partners (e.g., INGOs, country governments, donors) to inform programmatic decision-making
-- Developed and maintained strong working relationships with key stakeholders including INGOs, country
-governments, and academic partners
-- Stayed up to date with dynamic COVID-19 epidemiology and other pressing global health challenges, ensuring
-efficient responses to emerging challenges in demanding result-driven environment
+- Provided technical support to COVAX Facility, monitored 190+ vaccine candidates and contributed to evidence-based decisions
+- Updated COVID-19 vaccine pipeline and COVAX policy to align with policy and regulatory changes
+- Led project on sex and gender considerations in COVID-19 immunization, synthesizing evidence, and delivering presentations to key partners
 
 ![](/assets/img/gavi.jpg) 
 
+
 ## Wushu Competion: University of Maryland, College Park
-TerpWushu (May 2022)
+TerpWushu (May 2022)  
 _Competitor_  
 
 - Trained several months for TerpWushu competition at Goh's KungFu Studio in Baltimore, MD while acquiring my master's degree at Johns Hopkins University
+
 ![](/assets/img/wushu.jpg) 
+
 
 ## Study Abroad: London, United Kingdom
 NYU London, Fall 2018  (August - December 2018)  
