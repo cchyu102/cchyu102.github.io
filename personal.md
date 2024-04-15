@@ -24,6 +24,12 @@ efficient responses to emerging challenges in demanding result-driven environmen
 
 ![](/assets/img/gavi.jpg) 
 
+## Wushu Competion: University of Maryland, College Park
+TerpWushu (May 2022)
+_Competitor_  
+
+- Trained several months for TerpWushu competition at Goh's KungFu Studio in Baltimore, MD while acquiring my master's degree at Johns Hopkins University
+
 
 ## Study Abroad: London, United Kingdom
 NYU London, Fall 2018  (August - December 2018)  
