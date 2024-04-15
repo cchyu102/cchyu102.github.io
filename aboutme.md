@@ -12,4 +12,4 @@ Hello! I'm Christine, a master's graduate specializing in infectious disease epi
 - New York University
     - *BS Neural Science, Public Health minor, May 2021*
  
-[Resume/CV] 
+[Resume/CV] (Christine_Chyu_Resume_2-28-24.pdf)
