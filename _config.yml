@@ -20,6 +20,7 @@ author: Christine Chyu
 ###############################################
 
 navbar-links:
+  About me: "aboutme" 
   Research: "research"
   Personal Endeavors: "personal"
 
