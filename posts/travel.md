@@ -12,7 +12,7 @@ I wanted to take in as much as I could when I had the privilege to intern at Gav
 <center> Pilgrimage to Fatima, Portugal </center>
 <img src="/assets/img/fatima.jpg" alt="image" width="300"/>  
 
-<center> Pilgrimage to Dublin, Ireland </center>
+<center> Bar Crawl in Dublin, Ireland </center>
 <img src="/assets/img/dublin.jpg" alt="image" width="300"/>
 
 
