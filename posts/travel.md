@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Recent travels from 2023
+gh-repo: cchyu102/cchyu102.github.io
 ---
 
 ## Travels during my internship abroad
